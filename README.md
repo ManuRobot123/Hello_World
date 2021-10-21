@@ -1,3 +1,3 @@
 # Hello_World
-hello words,
+hello world,
 my name is Manuel.
